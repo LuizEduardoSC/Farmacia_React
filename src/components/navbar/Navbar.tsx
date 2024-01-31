@@ -1,4 +1,3 @@
-import { GameController } from "phosphor-react";
 import { Link } from "react-router-dom";
 
 function Navbar() {
